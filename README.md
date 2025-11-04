@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blog Veterinaria
 
 Este proyecto es un blog estático para documentar el desarrollo iterativo e incremental de un sistema web para una veterinaria. El blog está diseñado con un enfoque minimalista, profesional y responsive, ideal para proyectos universitarios.
@@ -27,3 +28,7 @@ Todos los archivos incluyen comentarios para facilitar la edición y adaptación
 ---
 
 > Reemplaza los textos e imágenes de ejemplo por los definitivos del proyecto.
+=======
+# proyecto-veterinaria-animalis-sanitas
+Sistema web para veterinaria - Proyecto universitario
+>>>>>>> 03d6692e8b44b567ce2e294bd53681a1a7dc1cdb
